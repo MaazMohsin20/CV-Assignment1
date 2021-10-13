@@ -35,21 +35,22 @@ INRIA Person Dataset Samples from here (https://drive.google.com/file/d/1pDr3138
 ## Implementation
 
 # Note: The assignement task were decomposed into small tasks containing code segment for that specific functionality
-    # Task1 and Task2 are the main function performing the required functionality of assignment.
+  Task1 and Task2 are the main function performing the required functionality of assignment.
 
-  # Task1() function containing the code for executing task 1 of assignment
+  Task1() function containing the code for executing task 1 of assignment
     
-  # load_model_plot_results will be used to Load the trained model and display the HOG of image with the predicted and actual lable value
+   load_model_plot_results will be used to Load the trained model and display the HOG of image with the predicted and actual lable value
 
 
-   # load_model_display_matrices will be used to load the model and display the performance matix of the model on the test data
+    load_model_display_matrices will be used to load the model and display the performance matix of the model on the test data
 
  # TASK2() will be used to perform the task 2 of assignment
+ 
   There are two sub functions in TASK2() which are proforming the functionality on two different data set  
 
-   # Task2_a() will be used for performing the BOVW against object detection dataset
+    Task2_a() will be used for performing the BOVW against object detection dataset
    
-   # Task2_b() will be used for performing the BOVW against Flower detection dataset
+    Task2_b() will be used for performing the BOVW against Flower detection dataset
 
     
 

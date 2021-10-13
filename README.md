@@ -35,11 +35,11 @@ INRIA Person Dataset Samples from here (https://drive.google.com/file/d/1pDr3138
 ## Implementation
 
 # Note: The assignement task were decomposed into small tasks containing code segment for that specific functionality
-  Task1 and Task2 are the main function performing the required functionality of assignment.
+    Task1 and Task2 are the main function performing the required functionality of assignment.
 
-  Task1() function containing the code for executing task 1 of assignment
+    Task1() function containing the code for executing task 1 of assignment
     
-   load_model_plot_results will be used to Load the trained model and display the HOG of image with the predicted and actual lable value
+    load_model_plot_results will be used to Load the trained model and display the HOG of image with the predicted and actual lable value
 
 
     load_model_display_matrices will be used to load the model and display the performance matix of the model on the test data
